@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-08-26T03:39:55.037-03:00
+  initializedAtString: 2018-08-26T03:39:55.037-03:00
+  log:
+  - commitID: 4d7cb2759e87d4d08ebffbec50622efa5c0ffd6b
+    mergeA: 
+    mergeB: 
+    authorName: Taiel2002
+    authorEmail: 42707835+Taiel2002@users.noreply.github.com
+    commitEmail: 42707835+Taiel2002@users.noreply.github.com
+    commitName: Taiel2002
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-08-26T03:21:14.000-03:00
+    commitTimeString: 2018-08-26T03:21:14.000-03:00
+    changes:
+    - path: .gitattributes
+      fullPath: E:\Taiel\Proyectos\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: .gitignore
+      fullPath: E:\Taiel\Proyectos\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\Assets\Scenes.meta
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\Assets\Scenes.meta
+      projectPath: ..\Juego Prueba\Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\Assets\Scenes\SampleScene.unity
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\Assets\Scenes\SampleScene.unity
+      projectPath: ..\Juego Prueba\Assets\Scenes\SampleScene.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\Assets\Scenes\SampleScene.unity.meta
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\Assets\Scenes\SampleScene.unity.meta
+      projectPath: ..\Juego Prueba\Assets\Scenes\SampleScene.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\Packages\manifest.json
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\Packages\manifest.json
+      projectPath: ..\Juego Prueba\Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\AudioManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\AudioManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\ClusterInputManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\ClusterInputManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\DynamicsManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\DynamicsManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\EditorBuildSettings.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\EditorSettings.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\EditorSettings.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\GraphicsSettings.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\GraphicsSettings.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\InputManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\InputManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\NavMeshAreas.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\NavMeshAreas.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\NetworkManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\NetworkManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\Physics2DSettings.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\Physics2DSettings.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\PresetManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\PresetManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\ProjectSettings.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\ProjectSettings.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\ProjectVersion.txt
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\ProjectVersion.txt
+      projectPath: ..\Juego Prueba\ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\QualitySettings.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\QualitySettings.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\TagManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\TagManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\TimeManager.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\TimeManager.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Juego Prueba\ProjectSettings\UnityConnectSettings.asset
+      fullPath: E:\Taiel\Proyectos\Juego Prueba\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ..\Juego Prueba\ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
